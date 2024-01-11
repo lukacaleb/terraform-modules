@@ -4,6 +4,6 @@ terraform {
     bucket    = "backcontrol-files"
     key       = "practice-website"
     region    = "us-east-1"
-    profile   = "miniproject_accessKeys"
+    profile   = "terraform_user"
   }
 }
